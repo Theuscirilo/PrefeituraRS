@@ -9,7 +9,3 @@ backgroundColor = "#ffffff"
 secondaryBackgroundColor = "#f5f5f5"
 textColor = "#262730"
 font = "sans serif"
-
-git add .streamlit/config.toml
-git commit -m "Adiciona pasta .streamlit com config.toml"
-git push

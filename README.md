@@ -16,5 +16,15 @@ Este projeto é uma aplicação interativa desenvolvida com [Streamlit](https://
 - Streamlit
 - Pandas
 ## 👾 Como executar
-- Abra o terminal do VScode e digite: (python -m streamlit run orcamento_app.py)
-- Abra seu navegador no host: (http://localhost:5000)
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse a pasta do projeto
+cd seu-repositorio
+
+# Execute o aplicativo
+python -m streamlit run orcamento_app.py
+# Host
+http://localhost:5000

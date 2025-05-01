@@ -1,6 +1,6 @@
 # 🎥 Sistema de Orçamento de Gravação - Prefeitura Rosário do Ivaí
 
-Este projeto foi desenvolvido para gerenciar solicitações de orçamento de gravação feitas por cidadãos à prefeitura.
+Este projeto foi desenvolvido para gerenciar solicitações de orçamento de gravação feitas por vereadores e prefeitos à prefeitura.
 
 ## 🚀 Como executar localmente
 

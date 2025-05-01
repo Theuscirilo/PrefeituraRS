@@ -1,2 +1,0 @@
-EXECUTAR:
-python -m streamlit run orcamento_app.py                                                HOST:http://localhost:5000
